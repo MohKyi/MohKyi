@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohKyi
-- 👀 I’m interested in ...Epidemiology and Data Science
+- 👀 I’m interested in ...Epidemiology and Data Analysis
 - 🌱 I’m currently learning ...Epidemiology and R
 - 💞️ I’m looking to collaborate on ...Epidemiologists and data scientists
 - 📫 How to reach me ... https://github.com/MohKyi
